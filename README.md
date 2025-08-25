@@ -16,7 +16,7 @@ Credit Due: [The tutorial I Used][https://www.geeksforgeeks.org/cpp/snake-code-c
 
 - well assuming your on a macosx device
   - Clone repo to desired location
-  - Make sure yoi have **make** installed
+  - Make sure you have **make** installed
   - run "make" in the snake directory
   - run "./bin/snake"
   - have fun :)
